@@ -1,7 +1,7 @@
 # K N E E T R A C K E R
  KneeTracker is the first sensorised knee rehabilitation device. 
  
- The device allows patient's to play games in order to improve their lower leg strength. In turn, the risk of complication is reduced and the patient is likely to leave hospital sooner.
+ The device allows patients to play games in order to improve their lower leg strength after surgery. In turn, the risk of complication is reduced and the patient is likely to leave hospital sooner.
  
  The device was developed according to a patent held by Mr. Shameem Sampath, in conjunction with Imperial College London, Department of Mechanical Engineering.
 
