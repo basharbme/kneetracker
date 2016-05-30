@@ -1,8 +1,7 @@
-# Project Name
-
-TODO: Write a project description
-
-### K N E E     T R A C K E R
+# K N E E T R A C K E R
+ KneeTracker is the first sensorised knee rehabilitation device. 
+ 
+ The device allows patient's to play games in order to improve their lower leg strength. In turn, the risk of complication is reduced and the patient is likely to leave hospital sooner.
 
 ## KneeTracker Installation
 
