@@ -7,7 +7,7 @@
 
 ## KneeTracker Installation
 
-KneeTracker is currently not commercially available to the general public. As such, the .apk file is not available at this time. Watch this space for any updates.
+KneeTracker is currently not commercially available to the general public. As such, the .apk file is not available at this time. Watch this space for updates.
 
 ## Credits
 
