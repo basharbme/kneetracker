@@ -5,9 +5,9 @@
  
  The device was developed according to a patent held by Mr. Shameem Sampath, in conjunction with Imperial College London, Department of Mechanical Engineering.
  
- ![Alt text](photos/IMG_5380.jpg?raw=true "Knee Tracker")
- ![Alt text](photos/IMG_5400.jpg?raw=true "Knee Tracker")
- ![Alt text](photos/IMG_5379.jpg?raw=true "Knee Tracker")
+![Alt text](photos/IMG_5400.jpg?raw=true "Knee Tracker")
+![Alt text](photos/IMG_5379.jpg?raw=true "Knee Tracker")
+![Alt text](photos/IMG_5380.jpg?raw=true "Knee Tracker")
 
 ## KneeTracker Installation
 
