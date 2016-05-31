@@ -7,7 +7,7 @@
  
  ![Alt text](photos/IMG_5380.jpg?raw=true "Knee Tracker")
  ![Alt text](photos/IMG_5400.jpg?raw=true "Knee Tracker")
- ![Alt text](photos/IMG_5479.jpg?raw=true "Knee Tracker")
+ ![Alt text](photos/IMG_5379.jpg?raw=true "Knee Tracker")
 
 ## KneeTracker Installation
 
