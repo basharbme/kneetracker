@@ -3,7 +3,6 @@
  
  The device allows patients to play games in order to improve their lower leg strength after surgery. In turn, the risk of complication is reduced and the patient is likely to leave hospital sooner.
  
- JOE SUCKS
  
  The device was developed according to a patent held by Mr. Shameem Sampath, in conjunction with Imperial College London, Department of Mechanical Engineering.
  
